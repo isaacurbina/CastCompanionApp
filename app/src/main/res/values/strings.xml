@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CastCompanionApp</string>
+    <string name="app_description">CAST REMOTE DISPLAY SAMPLE</string>
+    <string name="video_url">
+        https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
+    </string>
+    <!-- XXXXXXXX -->
+    <string name="app_id">
+        XXXXXXXX
+    </string>
+    <string name="play_video">Play Video</string>
+    <string name="pause_video">Pause Video</string>
+    <string name="resume_video">Resume Video</string>
+    <string name="video_title">Isaac\'s Chromecast Video Stream</string>
+    <string name="content_type_mp4">video/mp4</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="presentation_with_media_router_activity_text">This activity demonstrates how to use CastRemoteDisplay.</string>
+    <string name="presentation_with_media_router_play_on">Play on...</string>
+    <string name="presentation_with_media_router_now_playing_locally">Now playing on main display \'%s\'.</string>
+    <string name="presentation_with_media_router_now_playing_remotely">Now playing on secondary display \'%s\'.</string>
+    <string name="init_error">Error starting the remote display</string>
+    <string name="play">PLAY</string>
+    <string name="change_color">CHANGE COLOR</string>
+</resources>
