@@ -198,14 +198,17 @@ public class CastActivity extends AppCompatActivity {
         mCastClientListener = new Cast.Listener() {
             @Override
             public void onApplicationStatusChanged() {
+                Log.i("MYTAG", "onApplicationStatusChanged()");
             }
 
             @Override
             public void onVolumeChanged() {
+                Log.i("MYTAG", "onVolumeChanged()");
             }
 
             @Override
             public void onApplicationDisconnected( int statusCode ) {
+                Log.i("MYTAG", "onApplicationDisconnected() "+statusCode);
                 teardown();
             }
         };

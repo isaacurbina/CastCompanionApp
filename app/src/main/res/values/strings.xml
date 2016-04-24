@@ -4,9 +4,9 @@
     <string name="video_url">
         https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
     </string>
-    <!-- XXXXXXXX -->
+    <!-- 29B5AFE4 -->
     <string name="app_id">
-        XXXXXXXX
+        ED3BA8E8
     </string>
     <string name="play_video">Play Video</string>
     <string name="pause_video">Pause Video</string>
